@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 26 Jun 2024 09:47:16 at http://dkrmds.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://dkrmds.com/ -O1 "C:\My Web Sites\webd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:58:27	Warning: 	Retry after error -4 (Incorrect length (824817 Bytes, 1783550 expected)) at link dkrmds.com/images/songpa.png (from dkrmds.com/)
+10:02:51	Warning: 	Retry after error -4 (Incorrect length (482986 Bytes, 1157085 expected)) at link dkrmds.com/images/pascucci.png (from dkrmds.com/)
+10:04:10	Warning: 	Retry after error -4 (Incorrect length (4319351 Bytes, 4610487 expected)) at link dkrmds.com/images/biff.png (from dkrmds.com/)
+10:40:23	Warning: 	Retry after error -4 (Incorrect length (2363718 Bytes, 2816288 expected)) at link dkrmds.com/images/huxley.png (from dkrmds.com/)
+10:43:30	Warning: 	Retry after error -4 (Incorrect length (236494 Bytes, 566328 expected)) at link dkrmds.com/images/card01.png (from dkrmds.com/)
+10:44:24	Warning: 	Retry after error -4 (Incorrect length (226676 Bytes, 788012 expected)) at link dkrmds.com/images/card02.png (from dkrmds.com/)
+10:45:01	Warning: 	Retry after error -4 (Incorrect length (225563 Bytes, 464307 expected)) at link dkrmds.com/images/insta03.jpg (from dkrmds.com/)
+10:45:40	Warning: 	Retry after error -4 (Incorrect length (215078 Bytes, 343961 expected)) at link dkrmds.com/images/design_banner03.png (from dkrmds.com/)
+10:46:01	Warning: 	Retry after error -4 (Incorrect length (215233 Bytes, 482837 expected)) at link dkrmds.com/images/design_banner04.png (from dkrmds.com/)
+10:46:45	Warning: 	Retry after error -4 (Incorrect length (215774 Bytes, 768458 expected)) at link dkrmds.com/images/insta01.jpg (from dkrmds.com/)
+10:47:24	Warning: 	Retry after error -4 (Incorrect length (1334625 Bytes, 1783550 expected)) at link dkrmds.com/images/songpa.png (from dkrmds.com/)
+10:48:00	Warning: 	Retry after error -4 (Incorrect length (220125 Bytes, 405039 expected)) at link dkrmds.com/offices/images/alarm_banner02.png (from dkrmds.com/offices/index.html)
+10:48:30	Warning: 	Retry after error -4 (Incorrect length (725043 Bytes, 1157085 expected)) at link dkrmds.com/images/pascucci.png (from dkrmds.com/)
+10:49:06	Warning: 	Retry after error -4 (Incorrect length (218909 Bytes, 343959 expected)) at link dkrmds.com/pascucci/images/slide_banner03.png (from dkrmds.com/pascucci/index.html)
+10:50:12	Error: 	"Not Found" (404) at link dkrmds.com/biff/* (from dkrmds.com/biff/index.html)
+10:50:12	Error: 	"Not Found" (404) at link dkrmds.com/biff/.odd (from dkrmds.com/biff/index.html)
+10:50:12	Error: 	"Not Found" (404) at link dkrmds.com/biff/.even (from dkrmds.com/biff/index.html)
+10:50:12	Warning: 	Retry after error -4 (Incorrect length (225554 Bytes, 521443 expected)) at link dkrmds.com/biff/img/p16.jpg (from dkrmds.com/biff/index.html)
+10:51:01	Warning: 	Retry after error -4 (Incorrect length (493144 Bytes, 806345 expected)) at link dkrmds.com/biff/img/p18.jpg (from dkrmds.com/biff/index.html)
+10:51:52	Warning: 	Retry after error -4 (Incorrect length (225467 Bytes, 591648 expected)) at link dkrmds.com/biff/img/p20.jpg (from dkrmds.com/biff/index.html)
+11:03:50	Warning: 	Retry after error -4 (Incorrect length (22969063 Bytes, 23290360 expected)) at link dkrmds.com/yg/vids/vid1.mp4 (from dkrmds.com/yg/index.html)
+11:03:50	Warning: 	Retry after error -4 (Incorrect length (21537155 Bytes, 22055394 expected)) at link dkrmds.com/yg/vids/vid2.mp4 (from dkrmds.com/yg/index.html)
+11:03:50	Warning: 	Retry after error -4 (Incorrect length (12272164 Bytes, 12742196 expected)) at link dkrmds.com/yg/vids/vid3.mp4 (from dkrmds.com/yg/index.html)
+11:07:44	Warning: 	Retry after error -4 (Incorrect length (2594360 Bytes, 2816288 expected)) at link dkrmds.com/images/huxley.png (from dkrmds.com/)
+11:09:11	Warning: 	Retry after error -4 (Incorrect length (451106 Bytes, 788012 expected)) at link dkrmds.com/images/card02.png (from dkrmds.com/)
+11:09:46	Warning: 	Retry after error -4 (Incorrect length (445967 Bytes, 768458 expected)) at link dkrmds.com/images/insta01.jpg (from dkrmds.com/)
+11:09:48	Error: 	"Incorrect length (1550004 Bytes, 1783550 expected)" (-4) after 2 retries at link dkrmds.com/images/songpa.png (from dkrmds.com/)
+11:09:48	Error: 	"Incorrect length (940177 Bytes, 1157085 expected)" (-4) after 2 retries at link dkrmds.com/images/pascucci.png (from dkrmds.com/)
+11:09:48	Warning: 	Retry after error -4 (Incorrect length (440383 Bytes, 591648 expected)) at link dkrmds.com/biff/img/p20.jpg (from dkrmds.com/biff/index.html)
+11:10:13	Warning: 	Retry after error -4 (Incorrect length (21761565 Bytes, 22055394 expected)) at link dkrmds.com/yg/vids/vid2.mp4 (from dkrmds.com/yg/index.html)
+11:10:13	Warning: 	Retry after error -4 (Incorrect length (12492535 Bytes, 12742196 expected)) at link dkrmds.com/yg/vids/vid3.mp4 (from dkrmds.com/yg/index.html)
+11:10:38	Error: 	"Not Found" (404) at link dkrmds.com/huxley/images/bg_gnb_all.jpg (from dkrmds.com/huxley/css/style.css)
+11:10:38	Warning: 	Retry after error -4 (Incorrect length (218057 Bytes, 482837 expected)) at link dkrmds.com/huxley/images/main_02-01.png (from dkrmds.com/huxley/css/style.css)
+11:11:48	Warning: 	Retry after error -4 (Incorrect length (755824 Bytes, 1094596 expected)) at link dkrmds.com/huxley/images/main_02-03.png (from dkrmds.com/huxley/css/style.css)
+11:11:48	Warning: 	Retry after error -4 (Incorrect length (489241 Bytes, 919827 expected)) at link dkrmds.com/huxley/images/video_bg.png (from dkrmds.com/huxley/css/style.css)
+11:11:48	Error: 	"Incorrect length (665235 Bytes, 788012 expected)" (-4) after 2 retries at link dkrmds.com/images/card02.png (from dkrmds.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 25 minutes 3 seconds : 261 links scanned, 223 files written (123120960 bytes overall) [126138264 bytes received at 24718 bytes/sec], 343435 bytes transferred using HTTP compression in 13 files, ratio 29%, 1.7 requests per connection
+(7 errors, 29 warnings, 0 messages)

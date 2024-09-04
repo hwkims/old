@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+/* reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Pretendard';
+    font-weight: 400;
+    color: #242322; 
+}
+
+a {
+    text-decoration: none;
+    outline: 0;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+img {
+    vertical-align: top;
+}
+ .container {
+    width: 1176px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
